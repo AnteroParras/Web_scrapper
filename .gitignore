@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env
+.env.bak
+*.env
+
+# PyCharm
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Distribución
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
